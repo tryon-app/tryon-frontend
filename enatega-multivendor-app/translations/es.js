@@ -18,7 +18,7 @@ export const es = {
     getStarted: '¡Empezar!',
     welcome:
       "Bienvenido a Yalla, a veces todo lo que necesitas es amor. Pero un poco de comida de vez en cuando no hace daño.",
-    welcomeScreen: 'Bienvenido a Enatega',
+    welcomeScreen: 'Bienvenido a Tryon',
     loginBtn: 'Iniciar sesión',
     registerBtn: 'Registrarse',
     name: 'Nombre',
@@ -575,8 +575,8 @@ export const es = {
     none: 'ninguno',
     yourEmail: '¡Inicie sesión fácilmente ingresando su correo electrónico!',
     yourEmailPassword: '¡Ingrese sus contraseñas ahora para acceder!',
-    brandName: 'Enatega',
-    welcomeText: 'Bienvenido a Enatega',
+    brandName: 'Tryon',
+    welcomeText: 'Bienvenido a Tryon',
     createAccountDesc:
       'Disfrute de los mejores restaurantes o obtenga lo que necesita de tiendas cercanas, entregado',
     phoneNumber: 'Número de teléfono',
@@ -636,7 +636,7 @@ export const es = {
     Done: 'Hecho',
     addMessage: 'Añadir mensaje',
     kindlyBeAdvisedText: 'Tenga en cuenta que su mensaje también podría ser visible para el socio de mensajería responsable de entregar su pedido en el lugar.',
-    exploreYallaCities: 'Explorar ciudades de Enatega',
+    exploreYallaCities: 'Explorar ciudades de Tryon',
     Card: 'Tarjeta',
     lebelAlreadyExist: "La etiqueta '{{selectedLabel}}' ya existe. Por favor elija una diferente.",
     UpdateAvailable: 'Actualización disponible',

@@ -1,6 +1,13 @@
 import { NextIntlClientProvider } from "next-intl";
 import { getLocale, getMessages } from "next-intl/server";
 
+export const metadata = {
+  title: "Tryon dashboard",
+  icons: {
+    icon: "/favicon.png",
+  },
+};
+
 export default async function RootLayout({
   children,
 }: {

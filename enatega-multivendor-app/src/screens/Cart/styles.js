@@ -138,7 +138,7 @@ const styles = (props = null) =>
     totalBillContainer: {
       width: '100%',
       height: '20%',
-      backgroundColor: props !== null ? props.newheaderColor : '#90E36D',
+      backgroundColor: props !== null ? props.newheaderColor : '#20979d',
       ...alignment.PLlarge,
       ...alignment.PRlarge
     },
@@ -152,7 +152,7 @@ const styles = (props = null) =>
       paddingTop: scale(28)
     },
     button: {
-      backgroundColor: '#111827',
+      backgroundColor: '#472f8d',
       justifyContent: 'center',
       alignItems: 'center',
       width: scale(140),

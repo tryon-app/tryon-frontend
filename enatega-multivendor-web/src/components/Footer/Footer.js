@@ -61,7 +61,7 @@ function Footer() {
             }}
             align="center"
           >
-            {t("Enatega")}
+            {t("Tryon")}
           </Typography>
           <Typography
             variant="body2"

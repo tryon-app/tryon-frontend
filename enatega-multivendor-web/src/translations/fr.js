@@ -3,11 +3,11 @@ const fr = {
     selectLanguage: "Choisir la langue",
     saveButton: "sauvegarder",
     footerText:
-      "Enatega est une plateforme open source de gestion des livraisons pour le avenir. Nous accordons la priorité à l innovation, à la flexibilité et à l abordabilité, et offrez une solution évolutive et personnalisable qui rationalise votre processus de livraison.",
+      "Tryon est une plateforme open source de gestion des livraisons pour le avenir. Nous accordons la priorité à l innovation, à la flexibilité et à l abordabilité, et offrez une solution évolutive et personnalisable qui rationalise votre processus de livraison.",
     footerLinkHome: "Accueil",
     footerLinkPP: "Politique de confidentialité",
     footerLinkTC: "Conditions générales",
-    footerEndText: "Enatega - © 2022 Tous droits réservés",
+    footerEndText: "Tryon - © 2022 Tous droits réservés",
     followUs: "Suivez-nous",
     poweredBy: "Propulsé par",
     linksTitle: "Liens",
@@ -150,7 +150,7 @@ const fr = {
     continue: "Continuer",
     invalidEmail: "Adresse e-mail invalide",
     letsGetStarted: "Commençons !",
-    createAccount: "Créez votre compte Enatega",
+    createAccount: "Créez votre compte Tryon",
     firstnameErr1: "Le prénom est requis !",
     firstnameErr2: "Prénom invalide !",
     lastnameErr1: "Le nom de famille est requis !",
@@ -212,7 +212,7 @@ const fr = {
     pickUp: "Ramassage",
     warning: "Avertissement",
     warningText: "Un ou plusieurs éléments ne sont pas disponibles",
-    Enatega: "Enatega",
+    Tryon: "Tryon",
     connectText:
       "Connecter les livreurs, les restaurants et les clients pour une livraison de nourriture sans accroc",
     connectSubText:
@@ -288,11 +288,11 @@ const fr = {
     vendorHeading:
       "Une solution de livraison conçue pour développer votre restaurant",
     vendorDescription:
-      "Étendez votre portée, attirez plus de clients et créez des liens plus forts dans chaque quartier. Rejoignez Enatega en tant que vendeur dès aujourd’hui!",
+      "Étendez votre portée, attirez plus de clients et créez des liens plus forts dans chaque quartier. Rejoignez Tryon en tant que vendeur dès aujourd’hui!",
     contactUsHeading: "Comment souhaitez-vous obtenir de l’aide?",
     contactUsDescription: "Choisissez l’option qui vous convient",
     emailConfirmation: "E-mail envoyé avec succès!",
-    welcomeText: "Bienvenue sur Enatega",
+    welcomeText: "Bienvenue sur Tryon",
     emailConfirmationDescription:
       "Nous sommes ravis de vous accueillir parmi nous alors que nous visons à améliorer la livraison pour tout le monde. En tant que partenaire de livraison/ramassage, vous pouvez travailler selon votre emploi du temps, n’importe où, n’importe quand. Besoin d’aide ? Envoyez-nous un e-mail à enatega.nb@gmail.com",
     getStarted: "Commencer",

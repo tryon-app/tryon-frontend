@@ -441,7 +441,7 @@ function Restaurant(props) {
             renderSectionHeader={({ section: { title } }) => {
               return (
                 <View style={{ backgroundColor: '#fff' }}>
-                  <TextDefault style={styles(currentTheme).sectionHeaderText} textColor='#111827' bolder>
+                  <TextDefault style={styles(currentTheme).sectionHeaderText} textColor='#472f8d' bolder>
                     {title}
                   </TextDefault>
                   <Text

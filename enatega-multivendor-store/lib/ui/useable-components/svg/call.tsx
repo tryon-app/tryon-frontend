@@ -10,7 +10,7 @@ interface IconProps {
 const CallIcon: FC<IconProps> = ({
   width = 16,
   height = 16,
-  color = "#111827",
+  color = "#472f8d",
 }) => {
   return (
     <Svg width={width} height={height} viewBox="0 0 24 24" fill="none">

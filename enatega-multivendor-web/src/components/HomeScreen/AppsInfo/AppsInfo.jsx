@@ -69,7 +69,7 @@ const AppsInfo = () => {
   let RestuarantButtons = [
     {
       text: t("registerRestaurant"),
-      color: "#5AC12F",
+      color: "#20979d",
       link: "/becomeavendor",
       textColor: "white",
     },
@@ -78,7 +78,7 @@ const AppsInfo = () => {
   let OrderButtons = [
     {
       text: "Order Online Now ",
-      color: "#5AC12F",
+      color: "#20979d",
       link: "/restaurant-list",
       textColor: "white",
     },

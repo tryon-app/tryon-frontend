@@ -23,7 +23,7 @@ const FooterBottom = () => {
     >
       <Grid item md={4} xs={12}>
         <Typography color={"white"} align="center">
-          <span style={{ color: "#5AC12F" }}>Enatega </span>- © 2025 All Rights
+          <span style={{ color: "#20979d" }}>Tryon </span>- © 2025 All Rights
           Reserved
         </Typography>
       </Grid>
@@ -64,7 +64,7 @@ const FooterBottom = () => {
           >
             Subscribe
           </Typography>
-          <Box style={{ border:"1px solid #5AC12F",borderRadius:"5px", display:"flex",padding:"2px" }} alignItems={"center"} justifyContent={"center"}    >
+          <Box style={{ border:"1px solid #20979d",borderRadius:"5px", display:"flex",padding:"2px" }} alignItems={"center"} justifyContent={"center"}    >
           <TextField
             variant="standard"
             style={{width:"250px"}}

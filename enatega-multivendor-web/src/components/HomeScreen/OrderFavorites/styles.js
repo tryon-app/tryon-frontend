@@ -4,7 +4,7 @@ const useStyle = makeStyles((theme) => ({
   
     mainBox:
     {
-      backgroundColor:"#5AC12F",
+      backgroundColor:"#20979d",
       padding:"20px"
     },
     head:

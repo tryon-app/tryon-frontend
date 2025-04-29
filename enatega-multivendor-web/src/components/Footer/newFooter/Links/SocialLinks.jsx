@@ -67,7 +67,7 @@ const SocialLinks = () => {
               navigate(item.url)
             }
           } >
-           <item.icon  style={{ color: "#5AC12F" , cursor:"pointer" }}  />;
+           <item.icon  style={{ color: "#20979d" , cursor:"pointer" }}  />;
           </Box>
           
         })}

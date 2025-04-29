@@ -12,7 +12,7 @@ const SingleLink = ({ name, route }) => {
         style={{
           fontWeight: 700,
           marginTop: 2,
-          color: "#5AC12F",
+          color: "#20979d",
           display: "flex",
         }}
         sx={{

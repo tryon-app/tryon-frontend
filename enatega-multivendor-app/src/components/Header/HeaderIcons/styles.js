@@ -28,7 +28,7 @@ const styles = (backColor) =>
     absoluteContainer: {
       width: verticalScale(15),
       height: verticalScale(15),
-      backgroundColor: '#111827',
+      backgroundColor: '#472f8d',
       justifyContent: 'center',
       alignItems: 'center',
       borderRadius: scale(15),

@@ -13,8 +13,8 @@
 }
 
 :root {
-  --primary-color: #b1c748;
-  --secondary-color: #d8e3a3;
+  --primary-color: #20979d;
+  --secondary-color: #66ccd1;
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 255, 255, 255;
   --background-end-rgb: 255, 255, 255;
@@ -315,8 +315,8 @@ body {
 }
 
 .p-datatable-table .p-checkbox.p-highlight .p-checkbox-box {
-  background-color: #5ac12f !important;
-  border-color: #5ac12f !important;
+  background-color: #20979d !important;
+  border-color: #20979d !important;
 }
 
 .p-datatable-tbody tr td {

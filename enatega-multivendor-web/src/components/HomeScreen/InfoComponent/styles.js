@@ -24,9 +24,9 @@ const useStyle = makeStyles((theme) => ({
     marginBottom: "30px",
   },
   greenButton: {
-    backgroundColor: "#5AC12F",
+    backgroundColor: "#20979d",
     margin: "4px",
-    border: "1px solid #5AC12F",
+    border: "1px solid #20979d",
     transition: "all 0.5s",
     "&:hover": {
       backgroundColor: "white",

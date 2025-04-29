@@ -13,7 +13,7 @@ import { ReactComponent as PersonIcon } from "../../assets/icons/user.svg";
 import { ReactComponent as FavoriteBorderIcon } from "../../assets/icons/favourite.svg";
 import { ReactComponent as LocalMallIcon } from "../../assets/icons/cart.svg";
 
-import {ReactComponent as Logo}  from '../../assets/images/logo.svg'
+import logo  from '../../assets/images/tryonLogo.png'
 
 function DHeader({
   navitems,
@@ -47,16 +47,9 @@ function DHeader({
           }
           className={classes.linkDecoration}
         >
-           <Logo  aria-label="Enatega Logo" />
 
-          {/* <Typography
-            variant="h6"
-            color={theme.palette.common.black}
-            className={classes.font700}
-            style={{ marginLeft: "8px" }}
-          >
-            {title}
-          </Typography> */}
+          <img alt="tryon logo" src={logo} width={140} height={35} />
+
         </RouterLink>
         <Box className={classes.flex}>
           <Button

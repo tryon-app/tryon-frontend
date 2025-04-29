@@ -10,7 +10,7 @@ interface IconProps {
 const ScheduleIcon: FC<IconProps> = ({
   width = 40,
   height = 40,
-  color = "#111827",
+  color = "#472f8d",
 }) => {
   return (
     <Svg width={width} height={height} viewBox="0 0 40 40" fill="none">

@@ -18,7 +18,7 @@ export const en = {
   getStarted: 'Get Started!',
   welcome:
     "Welcome to Yalla, sometimes all you need is love. But a little food now and then doesn't hurt.",
-  welcomeScreen: 'Welcome to Enatega',
+  welcomeScreen: 'Welcome to Tryon',
   loginBtn: 'Login',
   registerBtn: 'Register',
   name: 'Name',
@@ -575,8 +575,8 @@ export const en = {
   none: 'none',
   yourEmail: 'Log in easily by entering your email!',
   yourEmailPassword: 'Please enter your passwords now for access!',
-  brandName: 'Enatega',
-  welcomeText: 'Welcome to Enatega',
+  brandName: 'Tryon',
+  welcomeText: 'Welcome to Tryon',
   createAccountDesc:
     'Enjoy the best restaurants or get what you need from nearby stores, delivered',
   phoneNumber: 'Phone Number',
@@ -636,7 +636,7 @@ export const en = {
   Done: 'Done',
   addMessage: 'Add Message',
   kindlyBeAdvisedText: 'Kindly be advised that your message could also be visible to the courier partner responsible for delivering your order to the venue.',
-  exploreYallaCities: 'Explore Enatega Cities',
+  exploreYallaCities: 'Explore Tryon Cities',
   Card: 'Card',
   lebelAlreadyExist: "The label '{{selectedLabel}}' already exists. Please choose a different one.",
   UpdateAvailable: 'Update Available',

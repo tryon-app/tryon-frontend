@@ -210,7 +210,7 @@ const de = {
     pickUp: "Abholung",
     warning: "Warnung",
     warningText: "Ein oder mehrere Elemente sind nicht verfügbar",
-    Enatega: "Enatega",
+    Tryon: "Tryon",
     connectText:
       "Verbindung von Fahrern, Restaurants und Kunden für eine nahtlose Essenslieferung",
     connectSubText:
@@ -286,12 +286,12 @@ const de = {
     vendorHeading:
       "Eine Lieferlösung, die darauf ausgelegt ist, Ihr Restaurant wachsen zu lassen",
     vendorDescription:
-      "Erweitern Sie Ihre Reichweite, gewinnen Sie mehr Kunden und bauen Sie stärkere Verbindungen in jedem Viertel auf. Werden Sie noch heute ein Enatega-Anbieter!",
+      "Erweitern Sie Ihre Reichweite, gewinnen Sie mehr Kunden und bauen Sie stärkere Verbindungen in jedem Viertel auf. Werden Sie noch heute ein Tryon-Anbieter!",
     contactUsHeading: "Wie möchten Sie Hilfe erhalten?",
     contactUsDescription:
       "Wählen Sie die Option, die für Sie am bequemsten ist",
     emailConfirmation: "E-Mail erfolgreich gesendet!",
-    welcomeText: "Willkommen bei Enatega",
+    welcomeText: "Willkommen bei Tryon",
     emailConfirmationDescription:
       "Wir freuen uns, dass Sie sich uns anschließen, während wir darauf abzielen, den Lieferservice für alle zu verbessern. Als Liefer-/Abholpartner können Sie nach Ihrem eigenen Zeitplan überall und jederzeit arbeiten. Brauchen Sie Hilfe? Senden Sie uns eine E-Mail an enatega.nb@gmail.com",
     getStarted: "Jetzt loslegen",

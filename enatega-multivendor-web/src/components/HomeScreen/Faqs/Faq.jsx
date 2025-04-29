@@ -5,13 +5,13 @@ import useStyle from "./styles";
 
 const Faq = () => {
   let faq = [
-    { heading: "What is Enatega and how does it work?", summary: "" },
-    { heading: "How do I join Enatega?", summary: "" },
-    { heading: "What tools does Enatega offer for vendors?", summary: "" },
+    { heading: "What is Tryon and how does it work?", summary: "" },
+    { heading: "How do I join Tryon?", summary: "" },
+    { heading: "What tools does Tryon offer for vendors?", summary: "" },
     { heading: "How do riders get paid?", summary: "" },
     { heading: "Can customers track their orders?", summary: "" },
     { heading: "What payment options are available?", summary: "" },
-    { heading: "Is Enatega available in my area?", summary: "" },
+    { heading: "Is Tryon available in my area?", summary: "" },
   ];
 
   let classes = useStyle();

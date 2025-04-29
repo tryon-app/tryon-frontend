@@ -3,11 +3,11 @@ const en = {
     selectLanguage: "Select Language",
     saveButton: "Save",
     footerText:
-      "Enatega is an open-source delivery management platform for the future. We prioritize innovation, flexibility, and affordability, and offer a scalable, customizable solution that streamlines your delivery processes.",
+      "Tryon is an open-source delivery management platform for the future. We prioritize innovation, flexibility, and affordability, and offer a scalable, customizable solution that streamlines your delivery processes.",
     footerLinkHome: "Home",
     footerLinkPP: "Privacy Policy",
     footerLinkTC: "Terms & Conditions",
-    footerEndText: "Enatega – © 2022 All Rights Reserved",
+    footerEndText: "Tryon – © 2022 All Rights Reserved",
     followUs: "Follow Us",
     poweredBy: "Powered By",
     linksTitle: "Links",
@@ -146,7 +146,7 @@ const en = {
     continue: "Continue",
     invalidEmail: "Invalid Email",
     letsGetStarted: "Let's get started!",
-    createAccount: "Create your Enatega Account",
+    createAccount: "Create your Tryon Account",
     firstnameErr1: "Firstname is required!",
     firstnameErr2: "Invalid First Name!",
     lastnameErr1: "Lastname is required!",
@@ -213,7 +213,7 @@ const en = {
     PlayStore: "Play Store",
     IosStore: "Ios Store",
     APP: "APP",
-    Enatega: "Enatega",
+    Tryon: "Tryon",
     connectText:
       "Connecting Riders, Restaurants, and Customers for Seamless Food Delivery",
     connectSubText:
@@ -232,11 +232,11 @@ const en = {
       " Enjoy a wide range of restaurants, fast delivery, and a user-friendly app and website.",
     orderText: "Order Your Favorites Anytime, Anywhere",
     orderSubText1:
-      "Experience the convenience of having all your favorite restaurant meals and cuisines in one place, delivered straight to your door—fast and fresh. Download the Enatega App today, and turn every craving into a delicious reality.",
+      "Experience the convenience of having all your favorite restaurant meals and cuisines in one place, delivered straight to your door—fast and fresh. Download the Tryon App today, and turn every craving into a delicious reality.",
     orderSubText2:
       "Explore a wide range of options, from local favorites and comfort food to gourmet dishes, healthy eats, and more.",
     orderSubText3:
-      "Download the Enatega App today, and turn every craving into a delicious reality.",
+      "Download the Tryon App today, and turn every craving into a delicious reality.",
     platformFeatureText: "Platform Features That Make Us Stand Out.",
     platformFeatureSubText:
       "We provide cutting-edge features to ensure your experience is smooth and hassle-free:",
@@ -304,11 +304,11 @@ const en = {
     riderDescription: "Better deliveries. Better customer experiences.",
     vendorHeading: "A Delivery Solution Designed to Grow your Restaurant",
     vendorDescription:
-      "Expand your reach, attract more customers, and build stronger connections in every neighborhood. Join Enatega as a vendor today!",
+      "Expand your reach, attract more customers, and build stronger connections in every neighborhood. Join Tryon as a vendor today!",
     contactUsHeading: "How would you like to get help?",
     contactUsDescription: "Choose the option that is convenient for you",
     emailConfirmation: "Email Sent Successfully!",
-    welcomeText: "Welcome to Enatega",
+    welcomeText: "Welcome to Tryon",
     emailConfirmationDescription:
       "We are thrilled to have you join us as we aim to make delivery better for everyone. As a delivery/pickup partner, you get to work according to your schedule anywhere, anytime. Need Help? send us an email at enatega.nb@gmail.com",
     getStarted: "Get Started",

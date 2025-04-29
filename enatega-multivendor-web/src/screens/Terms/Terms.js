@@ -20,7 +20,7 @@ function Terms() {
       <Grid container className={classes.mainContainer}>
         <Box className={classes.imageContainer}>
           <Typography variant="h4" color="textPrimary" align="center" className={classes.title}>
-            TERMS AND CONDITIONS | Enatega
+            TERMS AND CONDITIONS | Tryon
           </Typography>
         </Box>
         <Grid container item xs={12} className={classes.mainContainer}>
@@ -53,7 +53,7 @@ function Terms() {
                   guardian(s), you must stop using/accessing the Platforms immediately.
                 </Typography>
                 <Typography variant="subtitle2">
-                  Enatega reserves the right to change or modify these Terms (including our policies which are
+                  Tryon reserves the right to change or modify these Terms (including our policies which are
                   incorporated into these Terms) at any time. You are strongly recommended to read these Terms
                   regularly. You will be deemed to have agreed to the amended Terms by your continued use of the
                   Platforms following the date on which the amended Terms are posted.
@@ -61,7 +61,7 @@ function Terms() {
               </li>
               <li>
                 <Typography variant="subtitle2" className={classes.boldText}>
-                  Enatega
+                  Tryon
                 </Typography>
                 <ul className={classes.bullet}>
                   <li>
@@ -129,7 +129,7 @@ function Terms() {
                 </Typography>
                 <Typography variant="subtitle2">
                   The following is a non-exhaustive list of the types of conduct that are illegal or prohibited on the
-                  Platforms. Enatega reserves the right to investigate and take appropriate legal action against anyone
+                  Platforms. Tryon reserves the right to investigate and take appropriate legal action against anyone
                   who, in enatega's sole discretion, engages in any of the prohibited activities. Prohibited activities
                   include, but are not limited to the following:
                 </Typography>
@@ -254,8 +254,8 @@ function Terms() {
                   enatega and/or third parties who have authorised us with the use (collectively the “<b>Trademarks</b>
                   ”). You may not use, copy, reproduce, republish, upload, post, transmit, distribute, or modify these
                   Trademarks in any way without our prior express written consent. The use of enatega's trademarks on
-                  any other website not approved by us is strictly prohibited. Enatega will aggressively enforce its
-                  intellectual property rights to the fullest extent of the law, including criminal prosecution. Enatega
+                  any other website not approved by us is strictly prohibited. Tryon will aggressively enforce its
+                  intellectual property rights to the fullest extent of the law, including criminal prosecution. Tryon
                   neither warrants nor represents that your use of materials displayed on the Platforms will not
                   infringe rights of third parties not owned by or affiliated with enatega. Use of any materials on the
                   Platforms is at your own risk.
@@ -277,7 +277,7 @@ function Terms() {
                       Alcohol / Alcoholic Products (“<b>Alcohol</b>”){" "}
                     </Typography>
                     <Typography variant="subtitle2" className={classes.MV2}>
-                      To purchase Alcohol, you must be of the statutory legal age. Enatega, the Vendor and their
+                      To purchase Alcohol, you must be of the statutory legal age. Tryon, the Vendor and their
                       delivery riders, as the case may be, reserve the right in their sole discretion:
                     </Typography>
                   </li>
@@ -310,7 +310,7 @@ function Terms() {
                   </li>
                   <li>
                     <Typography variant="subtitle2">
-                      To purchase Tobacco, you must be of the statutory legal age. Enatega, the Vendor and their
+                      To purchase Tobacco, you must be of the statutory legal age. Tryon, the Vendor and their
                       delivery riders, as the case may be, reserve the right in their sole discretion:
                     </Typography>
                     <ul className={classes.circle}>
@@ -451,7 +451,7 @@ function Terms() {
                   </li>
                   <li>
                     <Typography variant="subtitle2">
-                      Enatega reserves the right to cancel any Order and/or suspend, deactivate or terminate your
+                      Tryon reserves the right to cancel any Order and/or suspend, deactivate or terminate your
                       enatega account in its sole discretion if it reasonably suspects or detects fraudulent behavior or
                       activity associated with your enatega account and/or with your Order.{" "}
                     </Typography>
@@ -535,11 +535,11 @@ function Terms() {
                   <li>
                     <Typography variant="subtitle2">Payment Methods</Typography>
                     <Typography variant="subtitle2" className={classes.MV2}>
-                      Enatega reserves the right to offer additional payment methods and/or remove existing payment
+                      Tryon reserves the right to offer additional payment methods and/or remove existing payment
                       methods at anytime in its sole discretion. If you choose to pay using an online payment method,
                       the payment shall be processed by our third party payment service provider(s). With your consent,
                       your credit card / payment information will be stored with our third party payment service
-                      provider(s) for future orders. Enatega does not store your credit card or payment information.
+                      provider(s) for future orders. Tryon does not store your credit card or payment information.
                     </Typography>
                   </li>
                   <li>
@@ -571,7 +571,7 @@ function Terms() {
                   </li>
                   <li>
                     <Typography variant="subtitle2">
-                      Enatega shall deliver your Order to the delivery address provided by You. You may choose for your
+                      Tryon shall deliver your Order to the delivery address provided by You. You may choose for your
                       Order to be delivered “ASAP” or scheduled for a specific time. An estimated delivery time will be
                       provided to you in your email confirmation but delivery times shall vary depending on factors that
                       are not controlled by us (e.g. order quantity, distance, time of day (peak periods), weather
@@ -677,7 +677,7 @@ function Terms() {
                       In some cases, our Vendors will deliver the Order to you (“Vendor Delivery”). While we will use
                       reasonable efforts to provide prior notice to you on Vendor Delivery, this may not always be
                       possible. Where Vendor Delivery applies, we may ask you to contact the Vendor directly in the
-                      event of issues or delays in your delivery. Enatega shall not be responsible in any way for Orders
+                      event of issues or delays in your delivery. Tryon shall not be responsible in any way for Orders
                       or Goods that are delivered by Vendors.{" "}
                     </Typography>
                   </li>
@@ -705,7 +705,7 @@ function Terms() {
                   </li>
                   <li>
                     <Typography variant="subtitle2">
-                      Enatega reserves the right to void, discontinue or reject the use of any Voucher without prior
+                      Tryon reserves the right to void, discontinue or reject the use of any Voucher without prior
                       notice Individual restaurants terms & conditions apply
                     </Typography>
                   </li>
@@ -758,8 +758,8 @@ function Terms() {
                   <li>
                     <Typography variant="subtitle2">Vendor’s representations</Typography>
                     <Typography variant="subtitle2" className={classes.MV2}>
-                      Enatega shall neither be liable for actions or omissions of the Vendor nor you in regard to
-                      provision of the Goods and where Vendor Delivery applies to your Order. Enatega does not assume
+                      Tryon shall neither be liable for actions or omissions of the Vendor nor you in regard to
+                      provision of the Goods and where Vendor Delivery applies to your Order. Tryon does not assume
                       any liability for the quantity, quality, condition or other representations of the Goods and/or
                       services provided by Vendors or guarantee the accuracy or completeness of the information
                       (including menu information, photos and images of the Goods) displayed on the Vendor’s
@@ -775,7 +775,7 @@ function Terms() {
                 </Typography>
                 <Typography variant="subtitle2" className={classes.MV3}>
                   Vendors are responsible for the preparation, condition and quality of Goods. In cases of Vendor
-                  Delivery, Vendors are responsible for delivery of the Goods and/or Orders. Enatega shall not be liable
+                  Delivery, Vendors are responsible for delivery of the Goods and/or Orders. Tryon shall not be liable
                   for any loss or damage arising from your contractual relationship with the Vendor.
                 </Typography>
               </li>
@@ -807,8 +807,8 @@ function Terms() {
                 </Typography>
                 <Typography variant="subtitle2" className={classes.MV3}>
                   The Platforms may contain links to other third party websites and by clicking on these links, you
-                  agree to do so at your own risk. Enatega does not control or endorse these third party websites or
-                  links and shall not be responsible for the content of these linked pages. Enatega accepts no liability
+                  agree to do so at your own risk. Tryon does not control or endorse these third party websites or
+                  links and shall not be responsible for the content of these linked pages. Tryon accepts no liability
                   or responsibility for any loss or damage which may be suffered by you in relation to your access and
                   use of these third party links and websites.
                 </Typography>
@@ -818,10 +818,10 @@ function Terms() {
                   Termination
                 </Typography>
                 <Typography variant="subtitle2" className={classes.MV3}>
-                  Enatega has the right to terminate, suspend or delete your account and access to the Platforms,
+                  Tryon has the right to terminate, suspend or delete your account and access to the Platforms,
                   including any delivery service we provide to you in respect of an Order, for any reason, including,
                   without limitation, if enatega, in its sole discretion, considers your use to be unacceptable, or in
-                  the event of any breach by you of the Terms. Enatega may, but shall be under no obligation to, provide
+                  the event of any breach by you of the Terms. Tryon may, but shall be under no obligation to, provide
                   you a warning prior to termination of your use of the Websites.
                 </Typography>
               </li>
@@ -830,7 +830,7 @@ function Terms() {
                   Amendments
                 </Typography>
                 <Typography variant="subtitle2" className={classes.MV3}>
-                  Enatega may amend these Terms at any time in its sole discretion. The amended Terms shall be effective
+                  Tryon may amend these Terms at any time in its sole discretion. The amended Terms shall be effective
                   immediately upon posting and you agree to the new Terms by continued use of the Platforms. It is your
                   responsibility to check the Terms regularly. If you do not agree with the amended Terms, whether in
                   whole or in part, you must stop using the Platforms immediately.

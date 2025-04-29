@@ -9,7 +9,7 @@ const PickupIcon = (props) => (
     {...props}
   >
     <Path
-      stroke="#111827"
+      stroke="#472f8d"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={1.2}

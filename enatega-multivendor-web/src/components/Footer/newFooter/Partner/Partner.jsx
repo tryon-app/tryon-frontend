@@ -42,7 +42,7 @@ const Partner = () => {
         <Button
           
           variant="contained"
-          style={{ backgroundColor: "#5AC12F", width: "230px", color: "black" ,textAlign:"left",}}
+          style={{ backgroundColor: "#20979d", width: "230px", color: "black" ,textAlign:"left",}}
           sx={{
             margin: {
               xs: "10px auto",
@@ -61,7 +61,7 @@ const Partner = () => {
         <Button
           variant="contained"
           style={{
-            backgroundColor: "#5AC12F",
+            backgroundColor: "#20979d",
             marginBottom: 10,
             width: "230px",
             color: "black",

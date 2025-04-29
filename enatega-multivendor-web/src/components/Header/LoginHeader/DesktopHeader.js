@@ -9,7 +9,7 @@ import useStyle from "./styles";
 import { useTheme } from "@emotion/react";
 import LocalMallIcon from "@mui/icons-material/LocalMall";
 import PersonIcon from "@mui/icons-material/Person";
-import {ReactComponent as Logo}  from '../../../assets/images/logo.svg'
+import logo  from '../../../assets/images/tryonLogo.png'
 import { useTranslation } from "react-i18next";
 
 function LoginDesktopHeader({ title, showIcon, showCart = false }) {
@@ -24,17 +24,9 @@ function LoginDesktopHeader({ title, showIcon, showCart = false }) {
           to={location.pathname === "/checkout" ? "/restaurant-list" : "/"}
           className={classes.linkDecoration}
         >
-          {/* <LogoSvg height={50} width={50} /> */}
-          <Logo  aria-label="Enatega Logo" />
 
-          {/* <Typography
-            variant="h6"
-            color={theme.palette.common.black}
-            className={classes.font700}
-            style={{ marginLeft: "8px" }}
-          >
-            {title}
-          </Typography> */}
+          <img alt="tryon logo" src={logo} width={140} height={35} />
+
         </RouterLink>
         <Box className={classes.flex}>
           {showIcon && (

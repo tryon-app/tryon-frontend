@@ -28,7 +28,7 @@ const styles = (props = null) =>
     },
     applyBtn: {
       width: 'auto',
-      backgroundColor: props !== null ? props?.main : '#90E36D',
+      backgroundColor: props !== null ? props?.main : '#20979d',
       padding: 16,
       marginHorizontal: 10,
       borderRadius: 50

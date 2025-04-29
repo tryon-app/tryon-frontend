@@ -10,7 +10,7 @@ interface IconProps {
 const NoDataIcon: FC<IconProps> = ({
   width = 16,
   height = 16,
-  color = "#111827",
+  color = "#472f8d",
 }) => {
   return (
     <Svg

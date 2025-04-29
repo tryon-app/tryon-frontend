@@ -78,7 +78,7 @@ const styles = (props = null) =>
       backgroundColor: '#fff',
     },
     plusBtn:{
-      backgroundColor: '#111827',
+      backgroundColor: '#472f8d',
     },
     actionContainerView: {    
       justifyContent: 'center',

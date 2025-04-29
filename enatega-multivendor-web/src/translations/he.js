@@ -210,7 +210,7 @@ const he = {
     PlayStore: "חנות Play",
     IosStore: "חנות iOS",
     APP: "יישום",
-    Enatega: "Enatega",
+    Tryon: "Tryon",
     connectText: "חיבור רוכבים, מסעדות ולקוחות למשלוח אוכל חלק",
     connectSubText:
       "הצטרפו לפלטפורמה שמספקת נוחות, גמישות וצמיחה לכל המעורבים. בין אם אתם שליחים המחפשים להרוויח, מסעדה שרוצה להתרחב, או לקוח שחושק בארוחות טעימות – אנחנו כאן בשבילכם!",
@@ -228,11 +228,11 @@ const he = {
       "תיהנו ממגוון רחב של מסעדות, משלוח מהיר ואפליקציה ואתר ידידותיים למשתמש.",
     orderText: "הזמן את המועדפים שלך בכל זמן, בכל מקום",
     orderSubText1:
-      "חווה את הנוחות של having all your favorite restaurant meals and cuisines in one place, delivered straight to your door—fast and fresh. הורד את אפליקציית Enatega היום, והפוך כל חשק למאכל טעים למציאות.",
+      "חווה את הנוחות של having all your favorite restaurant meals and cuisines in one place, delivered straight to your door—fast and fresh. הורד את אפליקציית Tryon היום, והפוך כל חשק למאכל טעים למציאות.",
     orderSubText2:
       "גלה מגוון רחב של אפשרויות, ממנות אהובות מקומיות ואוכל מנחם ועד מנות גורמה, אוכל בריא ועוד.",
     orderSubText3:
-      "הורד את אפליקציית Enatega היום, והפוך כל חשק למאכל טעים למציאות.",
+      "הורד את אפליקציית Tryon היום, והפוך כל חשק למאכל טעים למציאות.",
     platformFeatureText: "תכונות הפלטפורמה שמבליטות אותנו.",
     platformFeatureSubText:
       "אנו מספקים תכונות מתקדמות כדי להבטיח שהחוויה שלך תהיה חלקה וללא מאמץ:",
@@ -300,7 +300,7 @@ const he = {
     riderDescription: "משלוחים טובים יותר. חוויות לקוח טובות יותר.",
     vendorHeading: "פתרון משלוחים שתוכנן לצמיחת המסעדה שלך",
     vendorDescription:
-      "הרחב את טווח ההגעה שלך, משוך יותר לקוחות ובנה קשרים חזקים יותר בכל שכונה. הצטרף ל-Enatega כספק היום!",
+      "הרחב את טווח ההגעה שלך, משוך יותר לקוחות ובנה קשרים חזקים יותר בכל שכונה. הצטרף ל-Tryon כספק היום!",
     contactUsHeading: "איך תרצה לקבל עזרה?",
     contactUsDescription: "בחר את האפשרות הנוחה ביותר עבורך",
     emailConfirmation: "האימייל נשלח בהצלחה!",

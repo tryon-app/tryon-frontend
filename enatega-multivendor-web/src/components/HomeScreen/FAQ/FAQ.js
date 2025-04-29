@@ -22,12 +22,12 @@ function FAQ() {
         <Grid item xs={1} md={1} />
         <Grid container item xs={10} sm={10} md={9}>
           <Typography variant="h4" className={classes.FAQTitle}>
-            Order food online from the best restaurants and shops on Enatega
+            Order food online from the best restaurants and shops on Tryon
           </Typography>
           <Typography variant="subtitle1" className={classes.FAQAns}>
-            Are you hungry? Had a long and busy day? Then Enatega is the right place for you! Enatega, offers you a long
+            Are you hungry? Had a long and busy day? Then Tryon is the right place for you! Tryon, offers you a long
             and detailed <b>list of the best restaurants near you</b>. Whether it is a delicious Pizza, Burger, Japanese
-            or any kind of Fast Food you are craving, Enatega has an extensive roaster restaurants available for you to{" "}
+            or any kind of Fast Food you are craving, Tryon has an extensive roaster restaurants available for you to{" "}
             <b>order food online with home delivery</b>.
           </Typography>
           <Typography variant="h4" className={classes.FAQTitle}>
@@ -57,7 +57,7 @@ function FAQ() {
                 <ListItemIcon>
                   <DoneIcon color="primary" />
                 </ListItemIcon>
-                <ListItemText primary="NEW: Enatega grocery delivery! Discover the best shops, pharmacies, bakeries and more near you." />
+                <ListItemText primary="NEW: Tryon grocery delivery! Discover the best shops, pharmacies, bakeries and more near you." />
               </ListItem>
             </List>
           </Grid>
