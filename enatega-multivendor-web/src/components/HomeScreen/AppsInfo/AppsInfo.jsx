@@ -1,6 +1,6 @@
 import { Box, Grid } from "@mui/material";
 import { React } from "react";
-import OrderSection from "../../../assets/images/OrderSection.svg";
+import OrderSection from "../../../assets/images/OrderSection.png";
 import RiderSection from "../../../assets/images/RiderSection.svg";
 import RestuarantSection from "../../../assets/images/RestuarantSection.svg";
 import useStyle from "./styles";
