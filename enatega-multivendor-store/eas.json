@@ -16,7 +16,7 @@
         "buildType": "apk"
       },
       "env": {
-        "SENTRY_AUTH_TOKEN": "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"
+        "SENTRY_AUTH_TOKEN": "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"
       }
     },
 

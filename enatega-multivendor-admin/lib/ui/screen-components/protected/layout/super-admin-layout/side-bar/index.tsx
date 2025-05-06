@@ -62,7 +62,7 @@ export default function MakeSidebar() {
     {
       text: 'My Website',
       label: t('My Website'),
-      route: 'https://multivendor.enatega.com/',
+      route: 'https://tryon.ae/',
       isParent: true,
       icon: faUpRightFromSquare,
       isClickable: true,

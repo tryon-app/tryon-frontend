@@ -12,22 +12,22 @@ const getEnvVars = (env = Updates.channel) => {
 
   if (env === "production" || env === "staging") {
     return {
-      GRAPHQL_URL: "https://enatega-multivendor-revamp.up.railway.app/graphql",
-      WS_GRAPHQL_URL: "wss://enatega-multivendor-revamp.up.railway.app/graphql",
+      GRAPHQL_URL: "https://tryon.up.railway.app/graphql",
+      WS_GRAPHQL_URL: "wss://tryon.up.railway.app/graphql",
       SENTRY_DSN:
         configuration?.restaurantAppSentryUrl ??
-        "https://91b55f514a2c4708845789d6e79abf10@o1103026.ingest.sentry.io/6131933",
+        "https://219c69a600ee14ff148cc4f6eae0f64e@o4509214447960064.ingest.de.sentry.io/4509240792318032",
     };
   }
   return {
     // GRAPHQL_URL: "http://10.97.4.84:8001/graphql",
     // WS_GRAPHQL_URL: "ws://10.97.4.84:8001/graphql",
-    GRAPHQL_URL: "https://enatega-multivendor-revamp.up.railway.app/graphql",
-    WS_GRAPHQL_URL: "wss://enatega-multivendor-revamp.up.railway.app/graphql",
+    GRAPHQL_URL: "https://tryon.up.railway.app/graphql",
+    WS_GRAPHQL_URL: "wss://tryon.up.railway.app/graphql",
 
     SENTRY_DSN:
       configuration?.restaurantAppSentryUrl ??
-      "https://91b55f514a2c4708845789d6e79abf10@o1103026.ingest.sentry.io/6131933",
+      "https://219c69a600ee14ff148cc4f6eae0f64e@o4509214447960064.ingest.de.sentry.io/4509240792318032",
   };
 };
 

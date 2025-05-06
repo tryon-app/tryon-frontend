@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Tryon Multi",
-    "scheme": "enategamultivendor",
-    "version": "1.0.72",
+    "name": "Tryon",
+    "scheme": "tryon",
+    "version": "1.0.0",
     "description": "Tryon is a starter kit food ordering app built in React Native using Expo for IOS and Android. It's made keeping good aesthetics in mind as well keeping the best coding practices in mind. Its fully customisable to easily help you in your next food delivery project. https://market.nativebase.io/view/react-native-food-delivery-backend-app",
-    "slug": "enategamultivendor",
-    "owner": "ninjas_code",
+    "slug": "tryon",
+    "owner": "tryonapp-project",
     "privacy": "public",
     "androidStatusBar": {
       "backgroundColor": "#000"
@@ -26,9 +26,9 @@
       },
       "supportsTablet": true,
       "userInterfaceStyle": "automatic",
-      "bundleIdentifier": "com.enatega.multivendor",
+      "bundleIdentifier": "com.tryon.multivendor",
       "config": {
-        "googleMapsApiKey": "AIzaSyCcm7_Wd7uvmC9YnYLu2JHGWPt6z1MaL1E"
+        "googleMapsApiKey": "AIzaSyD64N8FnFLbGOE1raIJ0Sy3_5yTMTUqsTA"
       },
       "usesAppleSignIn": true,
       "infoPlist": {
@@ -61,13 +61,13 @@
       "androidCollapsedTitle": "Tryon Multivendor"
     },
     "android": {
-      "versionCode": 72,
-      "package": "com.enatega.multivendor",
+      "versionCode": 1,
+      "package": "com.tryon.multivendor",
       "googleServicesFile": "./google-services.json",
       "userInterfaceStyle": "automatic",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyCcm7_Wd7uvmC9YnYLu2JHGWPt6z1MaL1E"
+          "apiKey": "AIzaSyD64N8FnFLbGOE1raIJ0Sy3_5yTMTUqsTA"
         }
       },
       "permissions": [
@@ -103,9 +103,9 @@
         {
           "file": "sentry-expo/upload-sourcemaps",
           "config": {
-            "organization": "ninjas-code",
-            "project": "enatega-multivendor-app",
-            "authToken": "744ed798e04a40a896b0269c25f945de0e166db8362e41969b64d5e07ca80e65"
+            "organization": "tryon-portal-llc",
+            "project": "apps",
+            "authToken": "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"
           }
         }
       ]
@@ -120,7 +120,7 @@
       [
         "expo-updates",
         {
-          "username": "ninjas_code"
+          "username": "tryonapp-project"
         }
       ],
       [
@@ -138,14 +138,14 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "331d4e5b-b12a-434a-92ec-d6d283dc0e46"
+        "projectId": "6d345635-e6c8-4260-85fe-fcef74c748cf"
       }
     },
     "runtimeVersion": {
       "policy": "sdkVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/331d4e5b-b12a-434a-92ec-d6d283dc0e46"
+      "url": "https://u.expo.dev/6d345635-e6c8-4260-85fe-fcef74c748cf"
     }
   }
 }
